@@ -1,0 +1,1 @@
+Node.js streams read data in chunks. This file is readable stream.

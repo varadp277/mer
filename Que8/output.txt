@@ -1,0 +1,2 @@
+Hello, this is written by Node.js
+This line is appended.
